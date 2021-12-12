@@ -21,7 +21,7 @@ substitutions:
 
 # Set your Wi-Fi Name and Password
 wifi:
-  ssid: !secret ssid
+  ssid: !secret wifi_ssid
   password: !secret wifi_password
 
 switch:
