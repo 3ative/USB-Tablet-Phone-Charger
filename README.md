@@ -1,7 +1,7 @@
 # USB-Tablet-Phone-Charger
 Info and ESPHome code for my USB Tablet and Phone Charger project
 
-# Watch the full build and coding tutorial here: https://www.youtube.com/watch?v=aw0FqZZQ76g
+# Watch the full build and coding tutorial here: https://youtu.be/aw0FqZZQ76g
 
 ```yaml
 esphome:
