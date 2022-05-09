@@ -77,6 +77,11 @@ output:
 ```
 
 
+## Here's a simple wiring diagram:
+
+![unknown](https://user-images.githubusercontent.com/51385971/167420700-e1254c36-e0a4-4f23-8021-fdcc0e4412bb.png)
+
+
 🎁 Found this useful or want to say 'thanks' and support my efforts...
 
 [![BMC](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/3ative) **And leave a me a message to let me know.**  ❤
