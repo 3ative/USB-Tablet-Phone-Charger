@@ -81,7 +81,7 @@ output:
 
 ![unknown](https://user-images.githubusercontent.com/51385971/167420700-e1254c36-e0a4-4f23-8021-fdcc0e4412bb.png)
 
-
+___
 #### 💖 Found this useful, want to say '*Thanks*' and support my efforts. *CHEERS*🍺
 | Buy me a Coffee | PATREON |
 |-----------------|---------|
