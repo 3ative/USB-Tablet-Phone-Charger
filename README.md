@@ -15,6 +15,7 @@ logger:
     light: none
 api:
 ota:
+  platform: esphome
 
 substitutions:
   device: Tablet
