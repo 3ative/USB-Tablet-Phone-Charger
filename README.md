@@ -6,7 +6,8 @@ Info and ESPHome code for my USB Tablet and Phone Charger project
 ```yaml
 esphome:
   name: charger-tablet # Use this to name your device
-  platform: ESP8266
+
+esp8266:
   board: d1_mini
 
 logger:
